@@ -11,6 +11,12 @@ h1{
 .cursive{
     font-family: cursive;
 }
+#blog-desc{
+    color:#314831;
+    font-size: 30px;
+
+}
+
 
 
 li h4{
