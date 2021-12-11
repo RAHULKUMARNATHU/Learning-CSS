@@ -1,0 +1,21 @@
+p{
+font-size: 20px;
+color: red;
+}
+h1{
+    font-size: 30px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.cursive{
+    font-family: cursive;
+}
+
+
+/*li h4{
+    text-transform: uppercase;
+   text-anchor: middle;
+   font-family:cursive;
+} 
+*/
