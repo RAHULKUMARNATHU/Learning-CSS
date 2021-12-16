@@ -7,4 +7,12 @@
     /* rgb(25, 126, 200) */
      /* #393a7b; */
      /* red; */
+    }
+
+#div2{
+    height: 50%;
+    width: 50%;
+    background-color:cyan; 
+    /* hsl(25,126,200,1);   */
+     /* rgba(25,126,200, 0.4) ; */
 }
