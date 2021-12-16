@@ -25,3 +25,11 @@ li h4{
    text-anchor: middle;
    font-family:cursive;
 } 
+
+#site-desc a{
+font-size: 28px;
+}
+#site-desc :hover{
+    color:orange;
+    
+}
