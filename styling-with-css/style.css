@@ -1,7 +1,14 @@
+html{
+    font-size: 30px;
+}
+
+
 #div1{
-    height:10rem; 
+    height:20em;
+    /* 10rem;  */
     /* 200px; */
-    width:5rem;
+    width:20em;
+    /* 5rem; */
      /* 200px; */
     background-color: 
     /* hsl(25,126,200,1);   */
