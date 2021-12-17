@@ -39,3 +39,6 @@ html{
     /* hsl(25,126,200,1);   */
      /* rgba(25,126,200, 0.4) ; */
 }
+#sample-para{
+    border-left:4px solid red;
+}
