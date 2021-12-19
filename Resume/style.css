@@ -17,3 +17,9 @@ body{
 
 }
 
+.horizontal-list li{
+    display:inline-block;
+    margin: 0px 8px 8px 0px;
+}
+
+
