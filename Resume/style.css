@@ -52,4 +52,7 @@ body{
 #my-name{
     color: white;
     font-size: 3rem;
+    letter-spacing: 0.1rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
 }
