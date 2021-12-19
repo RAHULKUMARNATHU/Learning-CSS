@@ -22,4 +22,8 @@ body{
     margin: 0px 8px 8px 0px;
 }
 
+.horizontal-list li a{
+    color:white;
+    text-decoration: none;
+}
 
