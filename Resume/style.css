@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 
-
+/* Header Body */
 #body-header{
     height: 65vh;
     opacity: 0.8;
@@ -11,6 +11,7 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+/* Horizontal list */
 .horizontal-list{
     list-style: none;
     padding-left: 5px;
@@ -27,6 +28,13 @@ body{
     text-decoration: none;
 }
 
+
+.horizontal-list li a:hover{
+
+    color: lightgrey;
+    border-bottom: 1px solid white;
+
+}
 .text-center{
     text-align: center;
 }
