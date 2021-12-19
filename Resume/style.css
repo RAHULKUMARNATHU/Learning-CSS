@@ -26,6 +26,7 @@ body{
 .horizontal-list li a{
     color:white;
     text-decoration: none;
+    transition: color 0.5s , border-bottom 4s;
 }
 
 
