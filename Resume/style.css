@@ -1,5 +1,7 @@
 body{
     margin: 0px;
+    font-family: sans-serif;
+    font-size: 30px;
 }
 
 /* Header Body */
@@ -42,6 +44,9 @@ body{
 }
 .text-center{
     text-align: center;
+}
+.nav-menu li a{
+    transition: color 0.5s, border-bottom 4s;
 }
 
 
