@@ -30,14 +30,15 @@ flex-wrap:wrap;
 background-color: lightgreen;
 /* order :4; */
 }
-#div3{
+ 
+/* #div3{
     background-color: lightpink;
 }
 #div4{
     background-color: purple;
-    /* order:-1; */
+     order:-1; 
 }
 #div5{
     background-color: orange;
-    /* order:-1; */
-}
+     order:-1; 
+ } */
