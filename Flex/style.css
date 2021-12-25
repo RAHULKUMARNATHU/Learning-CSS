@@ -1,17 +1,17 @@
 #container{
 height :
-/* 400px; */
-auto;
+400px;
+/* auto; */
 /* 75vh; */
 width: 
-/* auto; */
-400px; 
+auto;
+/* 400px;  */
 /* 75vw; */
 background-color: rgb(38, 179, 171);
 display: flex;
 flex-direction:
-/* column; */
-row; 
+column;
+/* row;  */
 /* row-reverse; */
 flex-wrap:wrap;
 }
