@@ -4,7 +4,7 @@ body{
     font-size: 30px;
 }
 
-/* Header Body */
+/*Body Header*/
 #body-header{
     height: 65vh;
     opacity: 0.8;
@@ -35,9 +35,11 @@ body{
     /* transition: color 0.5s , border-bottom 4s; */
     text-decoration: none;
 }
+.nav-menu li a{
+    transition: color 0.5s, border-bottom 4s;
+}
 
-
-.horizontal-list li a:hover{
+.nav-menu li a:hover{
 
     color: lightgrey;
     border-bottom: 1px solid white;
@@ -46,9 +48,7 @@ body{
 .text-center{
     text-align: center;
 }
-.nav-menu li a{
-    transition: color 0.5s, border-bottom 4s;
-}
+
 
 
 /* Name and Social Icons */
@@ -77,6 +77,24 @@ body{
     
 }
 
+/*Section Classes*/
+
+section {
+    width: 100%;
+    /*height: 75vh;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+section:nth-child(2n) {
+    background-color: #9e9b9b29;
+}
+
+section:nth-child(2n + 1) {
+    background-color: white;
+}
 
 
 /* About Section */
@@ -104,5 +122,23 @@ body{
     
    
 }
+/* Paragraph-Section */
 
+#about-para {
+    padding: 10px;
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: grey;
+    line-height: 28px;
+    font-weight: 100;
+    font-size: 1.1rem;
+}
 
+.text-highlight {
+    color: #2857a4;
+    font-weight: 600;
+
+}
