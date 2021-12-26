@@ -12,13 +12,13 @@ background-color: rgb(38, 179, 171);
 display: flex;
 flex-direction:
 /* column; */
-column-reverse;
+column;
 /* row;  */
 /* row-reverse; */
 /* flex-wrap:wrap-reverse; */
-/* justify-content: */
+justify-content:
 /* space-evenly; */
-/* space-between; */
+space-between;
 /* end; */
 /* start ; */
 /* center; */
@@ -46,6 +46,7 @@ center;
     background-color: blue;
     /* flex-grow:1 ; */
     /* flex-shrink: 4; */
+   
 
 }
 
@@ -55,11 +56,12 @@ background-color: lightgreen;
 /* flex-grow: 4; */
 /* flex-shrink: 1; */
 /* order :4; */
+margin: ;
 }
- 
+/*  
 #div3{
     background-color: lightpink;
-}
+} */
 /* #div4{ 
     background-color: purple;
      order:-1; 
