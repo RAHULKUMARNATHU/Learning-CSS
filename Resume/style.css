@@ -163,7 +163,7 @@ section:nth-child(2n + 1) {
     /* border:  2px  solid black; */
     display: flex;
     flex-wrap:wrap ;
-    justify-content: space-around;
+    justify-content: space-evenly;
 
 }
 
@@ -173,6 +173,7 @@ section:nth-child(2n + 1) {
         height: 1.4rem;
         background-color: lightgrey;
         border-radius: 0.8rem;
+        margin:10px
         /* border: 2px solid black; */
 
 }
@@ -213,7 +214,7 @@ section:nth-child(2n + 1) {
 }
 
 .mb-voilet{
-    background-color:#402c4e;
+    background-color:#806374;
     /* background-color:lightslategrey; */
 
 }
